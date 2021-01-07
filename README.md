@@ -4,7 +4,7 @@
 ## About me
 **leeyeongeun**
 - [Email](mailto:zduddmszz@gmail.com)
-- [Instagram](www.instagram.com/oeueoo)
+- [Instagram](https://www.instagram.com/oeueoo)
 
 <!--
 **YeongEunLee/YeongEunLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
