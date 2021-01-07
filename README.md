@@ -1,4 +1,10 @@
 ### Hi there 👋
+[![YeongEunLee's github stats](https://github-readme-stats.vercel.app/api?username=YeongEunLee&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## About me
+**leeyeongeun**
+- [Email](mailto:zduddmszz@gmail.com)
+- [Instagram](www.instagram.com/oeueoo)
 
 <!--
 **YeongEunLee/YeongEunLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
