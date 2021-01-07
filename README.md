@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello 👋
 [![YeongEunLee's github stats](https://github-readme-stats.vercel.app/api?username=YeongEunLee&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
